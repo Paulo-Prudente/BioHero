@@ -1,0 +1,4 @@
+#Thu Nov 10 02:15:38 BRST 2022
+base.0=D\:\\Documentos\\Projetos_Unity\\ThirdPersonPhysics\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
